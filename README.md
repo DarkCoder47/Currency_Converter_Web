@@ -1,4 +1,3 @@
-```markdown
 # Currency_Converter_Web
 
 This is a simple web-based currency converter built using Flask and the [ExchangeRate-Host API](https://exchangerate.host/). The application allows users to convert amounts between various currencies using live exchange rates.
